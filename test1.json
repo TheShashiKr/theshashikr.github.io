@@ -1,24 +1,24 @@
 {
-    "Users": [
+    "Users":[
         {
             "id" : 1,
             "Name" : "Shashi",
-            "E-mail"  : "theshashikumar.sk@gmail.com"
+            "Email"  : "theshashikumar.sk@gmail.com"
         },
         {
             "id" : 2, 
             "Name" : "Rahul",
-            "E-mail" : "rahul@gmail.com"
+            "Email" : "rahul@gmail.com"
         },
         {
             "id" : 3,
             "Name" : "Akash",
-            "E-mail"  : "akashkumar.sk@gmail.com"
+            "Email"  : "akashkumar.sk@gmail.com"
         },
         {
             "id" : 4, 
             "Name" : "Akshay",
-            "E-mail" : "akshay@gmail.com"
+            "Email" : "akshay@gmail.com"
         }
     ]
 }
